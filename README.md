@@ -117,7 +117,7 @@ logo" title="Vue.js" height="25" /></span>
 
 <br>
 <div align="center">
-<a href="https://github.com/SophieNguyen113">
+<a href="https://github.com/ATOMOSX">
 <img src="https://wallpapercave.com/uwp/uwp4372872.jpeg" width="200px" height="250px" alt="Sunflower">
 </a>
 
