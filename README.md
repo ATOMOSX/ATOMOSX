@@ -1,16 +1,18 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
-  
-</a>
+# <a href="https://github.com/SophieNguyen113"><img src="Sophie%20Nguyen%20-%20CatCat.gif" width="300px" height="200px" alt="CatCat"></a> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sophie+Nguyen+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=How%20do%20you%20do?&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
+</p>
 
-# <a href="https://github.com/ATOMOSX"><img src="https://wallpapercave.com/w/uwp4372669.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Juan David López  
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Juan+David+L%C3%B3pez+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 SWE Intern @ CodeDay Labs || DEV @ Google Developer Student Club || CS @ GSU || Full Stack Web Dev
+💻 Apple Pathways Alliance Scholar '24 || Prev SWE Intern @ LFX Mentorship & Vietnam Tech Society '23 || CS @ GSU || Full Stack Web Dev
 
 <hr>
 
@@ -149,12 +151,4 @@
 
 </div>
 
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
-
-<br>
-
-
------
-Credits: [Sophie Nguyen](https://github.com/SophieNguyen113)
-
-Last Edited on: 10/07/2023
+<img src="Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
