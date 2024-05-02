@@ -1,5 +1,3 @@
-<a href="https://github.com/SophieNguyen113"><img src="Sophie%20Nguyen%20-%20CatCat.gif" width="300px" height="200px" alt="CatCat"></a> 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=How%20do%20you%20do?&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
