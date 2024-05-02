@@ -110,7 +110,7 @@ logo" title="Vue.js" height="25" /></span>
   <a href="https://www.linkedin.com/in/juan-david-lopez-mu%C3%B1oz-720097252/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="juan-linkedin" />
   </a>
-  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
+  <a href="mailto:juand.lopezmb@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="juan-email"/>
   </a>
 </div>
